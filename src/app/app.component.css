@@ -1,0 +1,43 @@
+.app-component{
+    text-align: center;
+border: 2px solid #bbb;
+padding-top: 40px;
+padding-bottom: 40px;
+margin-top: 38px;
+margin-left: 10px;
+margin-right: 10px;
+
+
+
+
+
+}
+
+.component-container {
+    text-align: center;
+    border: 2px solid #bbb;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-top: 38px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: grid;
+    grid-template: 200px / auto auto ;
+
+  }
+  button{
+    width: 120px;
+    height: 30px;
+
+    border: none;
+    text-align: center;
+    background-color: coral;
+  }
+  .container {
+    padding: 20px 30px;
+    background-color: #eeeeee;
+  }
+  .more-products {
+    display: flex;
+  }
+  
